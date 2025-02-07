@@ -1,0 +1,7 @@
+﻿  MeltingScreen.cpp
+D:\Applications\V\MeltingScreen\MeltingScreen\MeltingScreen.cpp(151,40): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 300 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MeltingScreen.vcxproj -> D:\Applications\V\MeltingScreen\x64\Release\MeltingScreen.exe
